@@ -11,7 +11,7 @@ Esta aplicação foi desenhada para atuar como o "cérebro" de processamento de 
 Abaixo segue o diagrama do fluxo de dados da solução:
 
 <div align="center">
-    <img src="diagrama_vertex_search.png" alt="Diagrama de Arquitetura" width="800"/>
+    <img src="diagrama_vertex_search.png" alt="Diagrama de Arquitetura" width="600"/>
 </div>
 
 <br>
@@ -50,4 +50,5 @@ MODEL="gemini-1.5-pro" # Modelo generativo a ser utilizado
 ## Referências:
 
 * [LangChain Integration: Vertex AI Search](https://python.langchain.com/docs/integrations/retrievers/google_vertex_ai_search/)
+
 * [Google Cloud Samples: Gen AI SDK Configuration](https://cloud.google.com/vertex-ai/generative-ai/docs/samples/googlegenaisdk-textgen-config-with-txt)
